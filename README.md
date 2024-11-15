@@ -6,8 +6,8 @@ Create a .env file in the root directory of the project and add the following co
 
 - `PORT = 3000`
 - `MONGO_DB_URI = mongodb://localhost:27017/`
-- `COOKIE_SECRET = secret`
-- `SESSION_SECRET = secret`
+- `COOKIE_SECRET = yoursecret`
+- `SESSION_SECRET = yoursecret`
 
 ## Install dependencies
 
